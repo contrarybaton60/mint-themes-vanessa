@@ -4,7 +4,7 @@ The "Mint-Y" themes from Linux Mint 21 "Vanessa" unaltered.
 ![image](https://github.com/user-attachments/assets/e21b4ba8-df28-45d5-a3a4-3f84e59a0659)
 
 
-## If you're using a light theme (Mint-Y, Mint-Y-Blue, etc) add these lines for corner bar and separator applets to appear:
+## If you're using a light theme (Mint-Y, Mint-Y-Blue, etc) add these lines for corner bar and separator applets to appear properly:
 
 ### Corner Bar:
 ```
@@ -32,4 +32,4 @@ Put the above code in `ThemeFolder/cinnamon/cinnamon.css` at line 1703 so the "C
     height: 1px;
     background: #c2c2c2; }
 ```
- Replace the existing code with this in line 1590 in `ThemeFoler/Cinnamon/cinnamon.css` for "Separator" applet to appear properly
+ Replace the existing code with this in line 1590 in `ThemeFoler/Cinnamon/cinnamon.css` for "Separator" applet to appear properly.
