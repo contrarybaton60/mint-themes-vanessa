@@ -12,7 +12,7 @@ Click the green "Code" button then "Download ZIP".
 
 or...
 ```
-git clone https://github.com/contrarybaton60/mint-themes/vanessa
+git clone https://github.com/contrarybaton60/mint-themes-vanessa
 ```
 
 ## If you're using a light theme (Mint-Y, Mint-Y-Blue, etc) add these lines for corner bar and separator applets to appear properly:
