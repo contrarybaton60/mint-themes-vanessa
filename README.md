@@ -8,7 +8,7 @@ Please note that GTK4 applications may not use the theme.
 
 # Download
 
-Click the green "Download" button then "Download ZIP".
+Click the green "Code" button then "Download ZIP".
 
 or...
 ```
